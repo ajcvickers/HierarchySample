@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgreSql", "PostgreSql\PostgreSql.csproj", "{E9AADCBF-B164-4FED-BB1B-7A3430922F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServer", "SqlServer\SqlServer.csproj", "{D3510C03-D8E2-41AA-B4EA-32DFEC272051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9AADCBF-B164-4FED-BB1B-7A3430922F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AADCBF-B164-4FED-BB1B-7A3430922F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AADCBF-B164-4FED-BB1B-7A3430922F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AADCBF-B164-4FED-BB1B-7A3430922F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3510C03-D8E2-41AA-B4EA-32DFEC272051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3510C03-D8E2-41AA-B4EA-32DFEC272051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3510C03-D8E2-41AA-B4EA-32DFEC272051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3510C03-D8E2-41AA-B4EA-32DFEC272051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
